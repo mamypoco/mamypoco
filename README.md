@@ -14,7 +14,7 @@ let mamypoco = {
   },
   softSkills: {
     motto: [ Customer Satisfaction ],
-    it: [ Technical Support, Route-53, Security Best Practice ],
+    it: [ Technical Support, Route 53, Security Best Practice ],
     learning: "Currently focusing on data structure and algorithm",
     design: ["start from scratch to test functionality first", "design frontend first in Figma"],
     language: "Japanese"
