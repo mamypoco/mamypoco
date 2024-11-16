@@ -1,4 +1,5 @@
 #### Hello 👋 my name is Mami. 
+I am a frontend developer, coding mostly webapps. Programming is my dream and currently seeking a team project and real job so I can contribute the world. 
 
 ```javascript
 let mamypoco = {
@@ -6,18 +7,20 @@ let mamypoco = {
   pronouns: ["she", "her"]
   hardSkills: {
     programming: [JavaScript],
-    db: [SQLite, mongoDB]
-    frontend: [React, HTML, CSS, Tailwind, Bootstrap, Figma]
-    backend: [stay-tuned]
+    db: [SQLite, mongoDB],
+    frontend: [React, HTML, CSS, Tailwind, Bootstrap, Figma],
+    backend: [stay-tuned],
+    whatIlookFor: [teamProject]
   },
   softSkills: {
-    Motto: [Customer Satisfaction],
-    IT: [Technical Support, Route-53, Security Best Practice],
+    motto: [Customer Satisfaction],
+    it: [Technical Support, Route-53, Security Best Practice],
     learning: "Currently focusing on data structure and algorithm",
     design: ["start from scratch to test functionality first", "design frontend first in Figma"],
+    language: "Japanese"
   },
-  hobbies: [yoga, hiking, gardening, taking-care-of-my-senior-dog, karaoke, cats, sewing],
-  prefeered theme: "dark"
+  hobbies: ["yoga", "hiking", "gardening", "karaoke", "cats", "sewing"],
+  preferredTheme: "dark"
 } 
 
 
