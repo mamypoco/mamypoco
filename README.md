@@ -1,5 +1,6 @@
 #### Hello 👋 my name is Mami. 
 
+```javascript
 let mamypoco = {
   name: "Mami Nishiwaki", 
   pronouns: ["she", "her"]
@@ -18,4 +19,5 @@ let mamypoco = {
   hobbies: [yoga, hiking, gardening, taking-care-of-my-senior-dog, karaoke, cats, sewing],
   theme: dark preferred,
 } 
+
 
