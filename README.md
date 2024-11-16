@@ -12,12 +12,12 @@ let mamypoco = {
   },
   softSkills: {
     Motto: [Customer Satisfaction],
-    IT: [Technical Support, Route 53, Security Best Practice],
+    IT: [Technical Support, Route-53, Security Best Practice],
     learning: "Currently focusing on data structure and algorithm",
-    design: "Either start from scratch to test functionality first, or if I know what I'm doing, design frontend first in Figma",
+    design: ["start from scratch to test functionality first", "design frontend first in Figma"],
   },
   hobbies: [yoga, hiking, gardening, taking-care-of-my-senior-dog, karaoke, cats, sewing],
-  theme: dark preferred,
+  prefeered theme: "dark"
 } 
 
 
