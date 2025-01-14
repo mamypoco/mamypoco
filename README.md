@@ -8,7 +8,7 @@ let mamypoco = {
   hardSkills: {
     programming: [ "JavaScript" ],
     db: [ "SQLite", "mongoDB" ],
-    frontend: [ "React", "HTML", 'CSS', "AntDesign", "Bootstrap", "Figma" ],
+    frontend: [ "React", "React Native", "HTML", 'CSS', "AntDesign", "Bootstrap", "Figma" ],
     backend: [ "Google Firebase" ],
     whatIlookFor: [ "A paid team project" ]
   },
